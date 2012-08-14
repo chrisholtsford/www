@@ -1,0 +1,12 @@
+.scrollable{
+    position:absolute;
+    top:50px;
+    left:0;
+    right:0;
+    bottom:0;
+    overflow:scroll;
+}
+
+#scroll_place_holder{
+    height:70px;
+}
